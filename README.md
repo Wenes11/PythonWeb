@@ -1,25 +1,16 @@
-# 🔍 Web Scraping com Selenium
+# 🕸️ Projeto de Web Scraping com Selenium
 
-Este projeto automatiza a busca de conteúdos no site [ge.globo.com](https://ge.globo.com/) utilizando Python e Selenium.
-
----
-
-## 🎯 Funcionalidades
-
-- Acesso automático ao site
-- Abertura do campo de busca
-- Preenchimento com a palavra-chave
-- Envio da busca simulando um usuário
+Este projeto realiza uma automação de busca no site [ge.globo.com](https://ge.globo.com) utilizando Python e a biblioteca Selenium.
 
 ---
 
 ## 🎥 Demonstração em Vídeo
 
-[▶ Clique aqui para assistir](/WebScraping.mp4)
+[▶ Clique para assistir ao vídeo WebScraping.mp4](https://github.com/Wenes11/PythonWeb/raw/main/WebScraping.mp4)
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Tecnologias usadas
 
 - Python
 - Selenium WebDriver
@@ -27,7 +18,7 @@ Este projeto automatiza a busca de conteúdos no site [ge.globo.com](https://ge.
 
 ---
 
-## ▶ Como rodar
+## 📦 Como executar
 
 1. Instale as dependências:
 ```bash
